@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcelo_Aguiar\\Desktop\\EventStock\\EventStock\\EventStock.csproj",
+      "projectUniqueName": "C:\\Users\\Marcelo_Aguiar\\Desktop\\EventStock-back\\EventStock\\EventStock.csproj",
       "projectName": "EventStock",
-      "projectPath": "C:\\Users\\Marcelo_Aguiar\\Desktop\\EventStock\\EventStock\\EventStock.csproj",
+      "projectPath": "C:\\Users\\Marcelo_Aguiar\\Desktop\\EventStock-back\\EventStock\\EventStock.csproj",
       "packagesPath": "C:\\Users\\Marcelo_Aguiar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcelo_Aguiar\\Desktop\\EventStock\\EventStock\\obj\\",
+      "outputPath": "C:\\Users\\Marcelo_Aguiar\\Desktop\\EventStock-back\\EventStock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcelo_Aguiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
